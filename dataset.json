@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in New York City, New York with a population of over 8,804k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in New York City, New York, US",
+  "export_job_id": "edd479ed-38bc-4d4f-b604-b657c05407f2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 432675,
+  "location_name": "New York City",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-new-york-city-new-york-us-sample-432675",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/432675/beamstation_432675_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_pct": 3.88,
+  "sample_records": 1000,
+  "sample_sha256": "c57a783b3de77d48706c7f5c683068b3d6dc923ad82f2753d82a91b608af414f",
+  "sample_size_bytes": 2839962,
+  "total_records": 25760,
+  "updated_at": "2026-04-09T10:52:22.335495+00:00"
+}
